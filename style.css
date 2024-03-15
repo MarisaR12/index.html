@@ -3,9 +3,28 @@ html {
   width: 100%;
 }
 body{
-  background-color: indianred;
-  color:rebeccapurple;
+  background-color: #a8b3ac;
+  color:#ffffff;
+  
 }
 p{
-  font-family:fantasy;
+  font-family:'Allan';
+  font-size: 2em;
+  text-align: center;
+}
+h1{
+  font-size:5em;
+  background-color: #DAB180;
+  border: 2px;
+  border-style: dashed;
+  border-color: white;
+}
+h2{
+  text-shadow: 2px 2px #000000;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
